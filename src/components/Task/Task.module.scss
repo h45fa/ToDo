@@ -1,0 +1,22 @@
+.Task {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 380px;
+    height: 90px;
+    margin:20px auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 2px solid black;
+
+    button {
+        width: 100px;
+        height: 50px;
+        border:2px solid black;
+        border-radius: 8px;
+    }
+}
+
+.Title {
+    width: 250px;
+}
